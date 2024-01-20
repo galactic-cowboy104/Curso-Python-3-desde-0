@@ -7,7 +7,7 @@ print('  Presiona 2 para convertir de palabra a número.\n')
 # Pidiendo al usuario el valor de la selección
 opcion = int(input('¿Cuál es tu opción deseada?: '))
 
-# Estructura condicional anidadad
+# Estructura condicional anidada
 if opcion == 1:
 
     print('\nConversor de número a palabra.')
